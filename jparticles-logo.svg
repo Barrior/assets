@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#00E0A9" offset="0%"></stop>
+            <stop stop-color="#00BE70" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形备份" fill="url(#radialGradient-1)" x="0" y="0" width="300" height="300" rx="73"></rect>
+            <text id="J" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN" font-size="200" font-weight="normal" fill="#FFFFFF">
+                <tspan x="96.7" y="227">J</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
